@@ -1,0 +1,21 @@
+body {
+    background-color: palegoldenrod;
+    font-family: sans-serif;
+    text-align:center;
+}
+header{
+font-size:25px;
+}
+
+nav
+{
+border:  2px solid peru;
+color:peru;
+}
+
+a {
+text-decoration: none;
+color:black;
+background-color: rgb(197, 127, 22);
+border: 2px solid peru
+}
